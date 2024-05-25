@@ -1,35 +1,35 @@
-'import random 
- 
-def dice_game(): 
-    collected_parts = [] 
-   # body_parts = { 
-   #     1: "Body", 
-   #     2: "Head", 
-   #     3: "Antenna", 
-   #     4: "Eye", 
-   #     5: "Mouth", 
-   #     6: "Leg" 
-   #} 
-    body_count=0 
-    eye_count = 0 
-    antenna_count = 0  
-    leg_count = 0 
-    head_count = 0 
-    mouth_count = 0 
-    print("Starting the game") 
-    print("\n")
-    print("Rolling Dice.....") 
-    print("\n") 
-    while len(collected_parts) < 13: 
-            roll = random.randint(1, 6) 
-            if roll == 1: 
-                print("\n Roll=",1) 
-                if 1 not in collected_parts: 
-                    print("\n You got the Body") 
-                    collected_parts.append(1) 
-                    body_count+=1 
-                else: 
-                    print("\n You already got the Body") 
+    import random 
+     
+    def dice_game(): 
+        collected_parts = [] 
+       # body_parts = { 
+       #     1: "Body", 
+       #     2: "Head", 
+       #     3: "Antenna", 
+       #     4: "Eye", 
+       #     5: "Mouth", 
+       #     6: "Leg" 
+       #} 
+        body_count=0 
+        eye_count = 0 
+        antenna_count = 0  
+        leg_count = 0 
+        head_count = 0 
+        mouth_count = 0 
+        print("Starting the game") 
+        print("\n")
+        print("Rolling Dice.....") 
+        print("\n") 
+        while len(collected_parts) < 13: 
+                roll = random.randint(1, 6) 
+                if roll == 1: 
+                    print("\n Roll=",1) 
+                    if 1 not in collected_parts: 
+                        print("\n You got the Body") 
+                        collected_parts.append(1) 
+                        body_count+=1 
+                    else: 
+                        print("\n You already got the Body") 
                      
             elif roll == 2 and 1 in collected_parts: 
                 print("\n Roll=",2) 
@@ -85,4 +85,4 @@ def dice_game():
     print("You Won") 
     print("Collected_parts= ",len(collected_parts)) 
  
-dice_game()'
+    dice_game()'
