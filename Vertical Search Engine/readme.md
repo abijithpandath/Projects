@@ -17,6 +17,6 @@
 - BeautifulSoap
 - Scrapy
 
-  #### Repository Includes:
+#### Repository Includes:
 - Source Code
 - Final Report
