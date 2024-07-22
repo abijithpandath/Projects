@@ -1,4 +1,4 @@
-#### Road Traffic Accidents Analysis Using Machine Learning Algorithms
+# Road Traffic Accidents Analysis Using Machine Learning Algorithms
 - The project aimed to address the increasing number of road traffic accidents by utilizing machine learning to 
 analyse and predict accident occurrences. 
 - The task required a comprehensive approach involving data analysis, preprocessing, model training, and 
