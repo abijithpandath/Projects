@@ -13,8 +13,8 @@ high-risk accident zones, focusing on peak hours.
 accidents, identified high-risk zones and peak hours, providing actionable insights for traffic management and 
 accident prevention.
 
-####Skills:
-- Seaborn
+#### Skills:
+-  Seaborn
 -  python
 -  Random Forest
 -  Scikit-Learn
@@ -29,6 +29,6 @@ accident prevention.
 -  Pandas
 -  Support Vector Machine (SVM)
 
-Repository Includes: 
+#### Repository Includes: 
 - Final Report
 - Source Code
