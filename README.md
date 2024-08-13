@@ -1,9 +1,9 @@
 ### 👋 Hello, I'm Abijith !
 
-✨ Turning data into actionable insights since [Start Year]  
+✨ Turning data into actionable insights since I got my master's degree in Data Science !
 💻 Specializing in machine learning, data analysis, and predictive modeling  
-📚 I'm currently deep-diving into real time data science projects  
-🛠️ Proficient with Python, R, SQL, and tools like TensorFlow, scikit-learn, and Tableau  
+📚 I'm currently deep-diving into real time data science projects
+🛠️ Proficient with Python, R, SQL, Excel and tools like TensorFlow, scikit-learn, and Tableau  
 📊 I love visualizing complex data with matplotlib, seaborn, and Power BI  
 
 🎯 **Goals:**  
