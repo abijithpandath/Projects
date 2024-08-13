@@ -24,10 +24,8 @@
 - Report File
 ### Screenshots
 ![Image1](Screenshots/download.png)
-<br>
-<hr>
-![Image2](Screenshots/image1.png)
-<br>
-<hr>
+<br><br>
+![Image1](Screenshots/image1.png)
+<br><br>
 ![Image3](Screenshots/image2.png)
-<br>
+<br><br>
