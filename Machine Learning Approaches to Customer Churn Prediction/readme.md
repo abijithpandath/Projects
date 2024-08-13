@@ -25,7 +25,7 @@
 ### Screenshots
 ![Image1](Screenshots/download.png)
 <br>
-![Image2](Screenshots/download (1).png)
+![Image2](Screenshots/image1.png)
 <br>
-![Image1](Screenshots/download (2).png)
+![Image3](Screenshots/image2.png)
 <br>
