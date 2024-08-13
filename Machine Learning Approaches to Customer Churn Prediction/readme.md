@@ -4,7 +4,7 @@
 - The action plan handled duplicate entries, addressed missing values, renamed columns for clarity, detected and treated outliers, and removed irrelevant columns to prepare the data for modelling.
 - Successfully evaluated the performance of each model using various metrics and visualized the prediction findings. This step involved using Python and machine learning libraries to ensure accurate and interpretable results.
 
-  #### Tools:
+  ### Tools:
 - Jupyter Notebook or Google Colab (for code development and experimentation)
 - Version Control (e.g., Git) for managing code versions and collaboration
 
@@ -15,8 +15,8 @@
 - Matplotlib and Seaborn (for data visualization)
 - Imbalanced-learn (for handling imbalanced datasets, if applicable)
 - Statistical Methods (for outlier detection and treatment)
-#### Languages:
+### Languages:
 - Python (primary programming language for analysis, preprocessing, modeling, and visualization)
-#### Repository Includes:
+### Repository Includes:
 - Source Code
 - Report File
