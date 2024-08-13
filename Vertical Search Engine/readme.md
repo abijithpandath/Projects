@@ -24,3 +24,9 @@
 ### Repository Includes:
 - Source Code
 - Documentation File
+
+### Screenshots
+![image](Screenshots/pic1.png)
+<br><br>
+![image](Screenshots/pic2.png)
+<br><br>
