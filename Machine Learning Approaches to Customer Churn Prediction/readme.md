@@ -23,4 +23,4 @@
 - Source Code
 - Report File
 ### Screenshots
-![Image1](download.png)
+![Image1](Machine Learning Approaches to Customer Churn Prediction/Screenshots/download.png)
