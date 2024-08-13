@@ -8,15 +8,19 @@
 - Created an intuitive web interface, improving user query input and retrieval of targeted information by 30% based on user feedback.
 - The project successfully delivered a specialized vertical search engine that significantly improved the accessibility and retrieval of academic publications for the Coventry University CMD Department, enhancing research efficiency and resource utilization
 
-#### Skills:
-- Search Engine Optimization (SEO)
-- Web Crawling
-- Web Scraping
-- Python (Programming Language)
--  HTML
-- BeautifulSoap
-- Scrapy
-
-#### Repository Includes:
+### Tools:
+- Jupyter Notebook (for code development and testing)
+- Version Control (Git) for managing code versions
+  
+### Technologies and Frameworks:
+- Python (for web crawling and backend logic)
+- Scrapy (for designing and implementing web crawling algorithms)
+- Web Development Tools (for creating the web interface)
+  
+### Languages:
+- Python (primary programming language for development and web crawling)
+- HTML/CSS (for web interface development)
+  
+### Repository Includes:
 - Source Code
-- Final Report
+- Documentation File
