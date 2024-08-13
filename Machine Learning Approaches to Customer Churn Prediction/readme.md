@@ -4,15 +4,16 @@
 - The action plan handled duplicate entries, addressed missing values, renamed columns for clarity, detected and treated outliers, and removed irrelevant columns to prepare the data for modelling.
 - Successfully evaluated the performance of each model using various metrics and visualized the prediction findings. This step involved using Python and machine learning libraries to ensure accurate and interpretable results.
 
-  #### Skills:
-  - Datasets
-  - Presentation Skills
-  - High Level Of Accuracy
-  - python
-  - Statistical Data Analysis
-  - Model Training · Machine Learning · Model Evaluation ·
-  - Exploratory Data Analysis · Data Visualization · Report Writing
+  #### Tools:
+- Jupyter Notebook or Google Colab (for code development and experimentation)
+- Version Control (e.g., Git) for managing code versions and collaboration
 
-#### Repository Includes:
-- Report File
-- Source Code 
+  #### Technologies and Frameworks:
+- Pandas (for data analysis, preprocessing, and handling missing values)
+- NumPy (for numerical computations)
+- Scikit-learn (for model training, evaluation, and metrics)
+- Matplotlib and Seaborn (for data visualization)
+- Imbalanced-learn (for handling imbalanced datasets, if applicable)
+- Statistical Methods (for outlier detection and treatment)
+#### Languages:
+- Python (primary programming language for analysis, preprocessing, modeling, and visualization)
