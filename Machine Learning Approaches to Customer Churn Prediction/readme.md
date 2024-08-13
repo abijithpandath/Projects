@@ -5,7 +5,7 @@
 - Successfully evaluated the performance of each model using various metrics and visualized the prediction findings. This step involved using Python and machine learning libraries to ensure accurate and interpretable results.
 
 ### Tools:
-- Jupyter Notebook or Google Colab (for code development and experimentation)
+- Jupyter Notebook and  Google Colab (for code development and experimentation)
 - Version Control (e.g., Git) for managing code versions and collaboration
 
 ### Technologies and Frameworks:
