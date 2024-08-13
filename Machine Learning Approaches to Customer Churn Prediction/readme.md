@@ -23,7 +23,6 @@
 - Source Code
 - Report File
 ### Screenshots
-<br>
 ![Image1](Screenshots/download.png)
 <br>
 <hr>
