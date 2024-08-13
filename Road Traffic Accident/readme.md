@@ -13,22 +13,22 @@ high-risk accident zones, focusing on peak hours.
 accidents, identified high-risk zones and peak hours, providing actionable insights for traffic management and 
 accident prevention.
 
-#### Skills:
--  Seaborn
--  python
--  Random Forest
--  Scikit-Learn
--  NumPy
--  Decision Trees
--  Machine Learning
--  Exploratory Data Analysis
--  Data Visualization
--  Gradient Boosting
--  Regression Analysis
--  Matplotlib
--  Pandas
--  Support Vector Machine (SVM)
-
-#### Repository Includes: 
-- Final Report
+### Tools:
+- Excel (for initial data analysis and preprocessing)
+- Jupyter Notebook (for code development and experimentation)
+- Version Control (Git) for managing code versions
+  
+### Technologies and Frameworks:
+- Pandas (for data analysis and preprocessing)
+- NumPy (for numerical computations)
+- Scikit-learn (for machine learning model training, evaluation, and metrics)
+- Matplotlib and Seaborn (for data visualization)
+- Various Machine Learning Algorithms (including Random Forest, SVM, and Decision Tree)
+  
+### Languages:
+- Python (primary programming language for analysis, preprocessing, modeling, and visualization)
+  
+### Repository Includes:
 - Source Code
+- Documentation File
+
