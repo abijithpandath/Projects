@@ -6,7 +6,7 @@
 
 ### Tools:
 - Jupyter Notebook and  Google Colab (for code development and experimentation)
-- Version Control (e.g., Git) for managing code versions and collaboration
+- Version Control (Git) for managing code versions and collaboration
 
 ### Technologies and Frameworks:
 - Pandas (for data analysis, preprocessing, and handling missing values)
