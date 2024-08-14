@@ -2,7 +2,7 @@
 ##  Sales Analysis Using Excel
 
 ### Situation
-The company was experiencing fluctuations in sales performance across various regions, with inconsistencies in product profitability and uncertainties about the effectiveness of the sales team. The leadership needed a comprehensive understanding of sales trends, regional performance, and product viability to make informed decisions and improve overall business performance.
+What if the company was experiencing fluctuations in sales performance across various regions, with inconsistencies in product profitability and uncertainties about the effectiveness of the sales team. The leadership needs a comprehensive understanding of sales trends, regional performance, and product viability to make informed decisions and improve overall business performance.
 
 ### Task
 The goal was to conduct a detailed sales analysis to uncover insights that could guide strategic decision-making. This involved analyzing sales data by country, identifying top-performing products and salespeople, detecting anomalies, and assessing product profitability. The analysis also needed to identify products that should potentially be discontinued due to poor performance.
