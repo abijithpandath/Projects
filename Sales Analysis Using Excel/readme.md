@@ -23,5 +23,17 @@ The analysis provided critical insights that allowed the company to streamline i
 - Workbook File
 
 ### Screenshots
-![IMAGE](Screenshots/SS1.PNG)<br><br>
-![IMAGE](Screenshots/SS2.PNG)<br><br>
+![IMAGE](Screenshots/SS1.png)<br><br>
+![IMAGE](Screenshots/SS2.png)<br><br>
+![IMAGE](Screenshots/SS3.png)<br><br>
+![IMAGE](Screenshots/SS4.png)<br><br>
+![IMAGE](Screenshots/SS5.png)<br><br>
+![IMAGE](Screenshots/SS6.png)<br><br>
+![IMAGE](Screenshots/SS7.png)4<br><br>
+![IMAGE](Screenshots/SS8.png)<br><br>
+![IMAGE](Screenshots/SS9.png)<br><br>
+![IMAGE](Screenshots/SS10.png)<br><br>
+![IMAGE](Screenshots/SS11.png)<br><br>
+![IMAGE](Screenshots/SS12.png)<br><br>
+![IMAGE](Screenshots/SS13.png)<br><br>
+
