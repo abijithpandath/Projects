@@ -1,5 +1,5 @@
 
-## Project Description: Sales Analysis
+##  Sales Analysis Using Excel
 
 ### Situation
 The company was experiencing fluctuations in sales performance across various regions, with inconsistencies in product profitability and uncertainties about the effectiveness of the sales team. The leadership needed a comprehensive understanding of sales trends, regional performance, and product viability to make informed decisions and improve overall business performance.
