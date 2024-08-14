@@ -9,7 +9,7 @@
 🎯 **Goals:**  
 - Master advanced NLP techniques and deploy real-time machine learning models  
 - Contribute to open-source data science projects  
-- Learn and earn more !
+- Learn more  and earn more !
 
 🎲 **Fun fact:**  
 I am in Love with Data ❤️❤, you can find our adventures down below !
