@@ -18,3 +18,10 @@ To address these needs, I undertook the following actions:
 
 ### Result
 The analysis provided critical insights that allowed the company to streamline its product offerings, resulting in the discontinuation of underperforming products. Regional sales strategies were optimized based on the identification of top-performing salespeople and countries. Additionally, the detection of anomalies and detailed profit analysis led to improved data accuracy and more informed decision-making, ultimately contributing to a significant increase in overall sales and profitability.
+
+### Repository Includes
+- Workbook File
+
+### Screenshots
+
+
