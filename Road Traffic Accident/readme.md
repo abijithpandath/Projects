@@ -1,4 +1,4 @@
-## Project Description: Road Traffic Accidents Analysis Using Machine Learning Algorithms
+##  Road Traffic Accidents Analysis Using Machine Learning Algorithms
 
 ### ⭐ Situation
 The project aimed to address the increasing number of road traffic accidents by utilizing machine learning to analyze and predict accident occurrences. The goal was to develop a predictive model that could provide actionable insights for traffic management and accident prevention.
