@@ -3,8 +3,8 @@
 ✨ Turning data into actionable insights since I got my master's degree in Data Science ! <br>
 💻 Specializing in machine learning, data analysis, and predictive modeling  
 📚 I'm currently deep-diving into real world data science projects and exploring solutions <br>
-🛠️ Proficient with Python, R, SQL, Excel and tools like TensorFlow, scikit-learn, and Tableau  
-📊 I love visualizing complex data with matplotlib, seaborn, and Power BI  
+🛠️ Proficient with Excel, Python, R, SQL, Excel and tools like TensorFlow, scikit-learn, and Tableau  
+📊 I love visualizing complex data with matplotlib, seaborn, Tableau and Power BI  
 
 🎯 **Goals:**  
 - Master advanced NLP techniques and deploy real-time machine learning models  
