@@ -16,8 +16,9 @@ I am in Love with Data ❤️❤, you can find our adventures down below !
 
 ## PROJECTS
 1. [Sales Analysis Using Excel](https://github.com/abijithpandath/Projects/tree/main/Sales%20Analysis%20Using%20Excel)
-2. [Customer Churn Prediction](https://github.com/abijithpandath/Projects/tree/main/Machine%20Learning%20Approaches%20to%20Customer%20Churn%20Prediction)
-3. [Road Traffic Accident Analysis](https://github.com/abijithpandath/Projects/tree/main/Road%20Traffic%20Accident)
-4. [Vertical Search Engine](https://github.com/abijithpandath/Projects/tree/main/Vertical%20Search%20Engine)
-5. [Beetle Game Using Python Control Structures ](https://github.com/abijithpandath/Projects/tree/main/Beetle%20Game)
+2. [Excel Dashboard For Pizza Sales Analysis](https://github.com/abijithpandath/Projects/tree/main/Excel%20Dashboard)
+3. [Customer Churn Prediction](https://github.com/abijithpandath/Projects/tree/main/Machine%20Learning%20Approaches%20to%20Customer%20Churn%20Prediction)
+4. [Road Traffic Accident Analysis](https://github.com/abijithpandath/Projects/tree/main/Road%20Traffic%20Accident)
+5. [Vertical Search Engine](https://github.com/abijithpandath/Projects/tree/main/Vertical%20Search%20Engine)
+6. [Beetle Game Using Python Control Structures ](https://github.com/abijithpandath/Projects/tree/main/Beetle%20Game)
 
