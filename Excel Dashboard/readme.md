@@ -48,5 +48,5 @@ The analysis and dashboard provided crucial insights into the pizza chain's sale
 - SQL Queries and Outputs for cross validation of table results
 
 ## 📸Screenshots
-![image](Screenshots/SS1.jpg)
+![image](Screenshots/SS1.png)
 
