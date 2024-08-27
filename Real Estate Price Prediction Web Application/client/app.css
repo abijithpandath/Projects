@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+}
+
+.img {
+    background: url('https://images.unsplash.com/photo-1507089947368-19c1da9775ae?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'); /* New background image */
+    background-size: cover;
+    filter: blur(10px);
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.container {
+    position: relative;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+header h1 {
+    text-align: center;
+    font-size: 26px;
+    color: #333;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.area, .location {
+    font-family: "Montserrat", sans-serif;
+    background: #f9f9f9;
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    height: 45px;
+    border-radius: 5px;
+    transition: border 0.3s ease;
+}
+
+.area:focus, .location:focus {
+    border-color: #5cb85c;
+    outline: none;
+}
+
+.switch-field {
+    display: flex;
+    justify-content: space-between;
+}
+
+.switch-field input {
+    display: none;
+}
+
+.switch-field label {
+    background-color: #f9f9f9;
+    color: #555;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    flex: 1;
+    text-align: center;
+    margin-right: 5px;
+}
+
+.switch-field label:last-of-type {
+    margin-right: 0;
+}
+
+.switch-field input:checked + label {
+    background-color: #5cb85c;
+    color: #fff;
+}
+
+.submit {
+    background: #5cb85c;
+    color: #fff;
+    width: 100%;
+    border: 0;
+    padding: 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.submit:hover {
+    background: #4cae4c;
+}
+
+.result {
+    background: #f0ad4e;
+    color: #fff;
+    padding: 15px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 20px;
+}
