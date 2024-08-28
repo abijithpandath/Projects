@@ -16,7 +16,7 @@ I am in Love with Data ❤️❤, you can find our adventures down below !
 
 ## PROJECTS
 1. [Sales Analysis Using Excel](https://github.com/abijithpandath/Projects/tree/main/Sales%20Analysis%20Using%20Excel)
-2. [Excel Dashboard For Pizza Sales Analysis](https://github.com/abijithpandath/Projects/tree/main/Excel%20Dashboard)
+2. [ Pizza Sales Analysis Using SQL and Dynamic Excel Dashboard](https://github.com/abijithpandath/Projects/tree/main/Excel%20Dashboard)
 3. [Real Estate Price Prediction Web Application](https://github.com/abijithpandath/Projects/tree/main/Real%20Estate%20Price%20Prediction%20Web%20Application)
 4. [Customer Churn Prediction](https://github.com/abijithpandath/Projects/tree/main/Machine%20Learning%20Approaches%20to%20Customer%20Churn%20Prediction)
 5. [Road Traffic Accident Analysis](https://github.com/abijithpandath/Projects/tree/main/Road%20Traffic%20Accident)
