@@ -1,2 +1,2 @@
-![image](Screenshots/SS.png)<br><br>
+![image](/Screenshots/SS.png)<br><br>
 
