@@ -27,3 +27,5 @@ The final Tableau dashboard provided a powerful, interactive tool that enabled s
 
 ## 📸 Screenshots
 ![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dash%20For%20EV%20Analysis/Screenshots/SS1.png)<br><br>
+![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dash%20For%20EV%20Analysis/Screenshots/SS2.png)<br><br>
+
