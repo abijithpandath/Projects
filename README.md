@@ -23,3 +23,13 @@ I am in Love with Data ❤️❤, you can find our adventures down below !
 6. [Vertical Search Engine](https://github.com/abijithpandath/Projects/tree/main/Vertical%20Search%20Engine)
 7. [Beetle Game Using Python Control Structures ](https://github.com/abijithpandath/Projects/tree/main/Beetle%20Game)
 
+# Abijith Pandath
+
+### Aspiring Data Professional
+
+---
+
+📧 **Email:** [abijithabi3416@gmail.com](mailto:abijithabi3416@gmail.com)  
+📞 **Contact:** [+44 7342 663982](tel:+447342663982)
+
+---
