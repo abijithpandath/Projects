@@ -7,7 +7,7 @@
 📊 I love visualizing complex data with matplotlib, seaborn, Tableau and Power BI  
 
 🎯 **Goals:**  
-- Master advanced NLP techniques and deploy real-time machine learning models  
+- Master advanced Data Science concepts and become a Data Professional  
 - Contribute to open-source data science projects  
 - Learn more  and earn more !
 
