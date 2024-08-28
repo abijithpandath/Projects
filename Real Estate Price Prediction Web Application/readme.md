@@ -61,4 +61,4 @@ The project successfully delivered a fully functional real estate price predicti
 
 ## 📸 Screenshots
 
-![image](https://github.com/abijithpandath/Projects/blob/main/Real%20Estate%20Price%20Prediction%20Web%20Application/Screenshots/sss1.png)
+![image](https://github.com/abijithpandath/Projects/blob/main/Real%20Estate%20Price%20Prediction%20Web%20Application/Screenshots/pic1.png)
