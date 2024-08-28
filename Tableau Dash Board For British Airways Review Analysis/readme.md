@@ -27,4 +27,15 @@ This project not only provided valuable insights but also enabled British Airway
  - Tableau Workbookfile
  - Data Set
 ## 📸 Screenshots
-![image](Screenshots/SS1.png)
+![image](Screenshots/SS0.png)<br><br>
+![image](Screenshots/SS1.png)<br><br>
+![image](Screenshots/SS2.png)<br><br>
+![image](Screenshots/SS3.png)<br><br>
+![image](Screenshots/SS4.png)<br><br>
+![image](Screenshots/SS5.png)<br><br>
+![image](Screenshots/SS6.png)<br><br>
+
+
+
+
+
