@@ -24,8 +24,8 @@ The interactive dashboard successfully transformed complex and extensive custome
 
 This project not only provided valuable insights but also enabled British Airways to make data-driven decisions that could lead to enhanced customer experiences and service quality.
 ## 🗂️ Repository Includes
- - Tableau Workbookfile
- - Data Set
+ - [Tableau Workbookfile](https://public.tableau.com/app/profile/abijith.pandath/viz/BritishAirwaysReviewAnalysis_17242888078890/Dashboard1)
+ - [Data Set](https://www.kaggle.com/datasets/girishchowdary22/british-airways-review-dataset2012-2023)
 ## 📸 Screenshots
 ![image](Screenshots/SS0.png)<br><br>
 ![image](Screenshots/SS1.png)<br><br>
