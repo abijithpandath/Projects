@@ -30,4 +30,10 @@ This project not only provided valuable insights but also enabled British Airway
 
 ## 📸 Screenshots
 ![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dash%20Board%20For%20British%20Airways%20Review%20Analysis/Screenshots/SS0.png)<br><br>
+![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dash%20Board%20For%20British%20Airways%20Review%20Analysis/Screenshots/SS1.png)<br><br>
+![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dash%20Board%20For%20British%20Airways%20Review%20Analysis/Screenshots/SS2.png)<br><br>
+![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dash%20Board%20For%20British%20Airways%20Review%20Analysis/Screenshots/SS3.png)<br><br>
+![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dash%20Board%20For%20British%20Airways%20Review%20Analysis/Screenshots/SS4.png)<br><br>
+![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dash%20Board%20For%20British%20Airways%20Review%20Analysis/Screenshots/SS5.png)<br><br>
+![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dash%20Board%20For%20British%20Airways%20Review%20Analysis/Screenshots/SS6.png)<br><br>
 
