@@ -23,3 +23,11 @@ The interactive dashboard successfully transformed complex and extensive custome
 - Tailor marketing and service improvement strategies based on detailed traveler demographics.
 
 This project not only provided valuable insights but also enabled British Airways to make data-driven decisions that could lead to enhanced customer experiences and service quality.
+
+🗂️ Repository Includes
+- [Tableau Workbook](https://public.tableau.com/app/profile/abijith.pandath/viz/BritishAirwaysReviewAnalysis_17242888078890/Dashboard1)
+- Data Set
+
+## 📸 Screenshots
+![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dash%20Board%20For%20British%20Airways%20Review%20Analysis/Screenshots/SS0.png)<br><br>
+
