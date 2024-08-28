@@ -26,11 +26,13 @@ The final Tableau dashboard provided a powerful, interactive tool that enabled s
 - Data Set
 
 ## 📸 Screenshots
-![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dash%20For%20EV%20Analysis/Screenshots/SS1.png)<br><br>
-![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dash%20For%20EV%20Analysis/Screenshots/SS2.png)<br><br>
-![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dash%20For%20EV%20Analysis/Screenshots/SS3.png)<br><br>
-![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dash%20For%20EV%20Analysis/Screenshots/SS4.png)<br><br>
-![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dash%20For%20EV%20Analysis/Screenshots/SS5.png)<br><br>
+![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dashboard%20For%20E%20V%20Analysis/Screenshots/SS1.png)<br><br>
+![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dashboard%20For%20E%20V%20Analysis/Screenshots/SS2.png)<br><br>
+![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dashboard%20For%20E%20V%20Analysis/Screenshots/SS3.png)<br><br>
+![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dashboard%20For%20E%20V%20Analysis/Screenshots/SS4.png)<br><br>
+![img](https://github.com/abijithpandath/Projects/blob/main/Tableau%20Dashboard%20For%20E%20V%20Analysis/Screenshots/SS5.png)<br><br>
+
+
 
 
 
