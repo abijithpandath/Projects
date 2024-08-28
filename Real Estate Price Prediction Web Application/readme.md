@@ -60,3 +60,4 @@ The project successfully delivered a fully functional real estate price predicti
 - README file detailing the project structure and implementation
 
 ## 📸 Screenshots
+![image](/Screenshots/SS.png)
