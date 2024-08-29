@@ -1,4 +1,4 @@
-## Customer Churn Analysis
+## 📉 Customer Churn Analysis
 
 ### ⭐ Situation
 The company faced a significant challenge with customer retention, as a noticeable number of customers were leaving, impacting revenue and growth. The leadership team needed a predictive solution to identify customers at risk of churning, allowing them to take proactive steps to retain these customers and improve overall customer satisfaction.
